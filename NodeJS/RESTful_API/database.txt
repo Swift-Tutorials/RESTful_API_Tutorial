@@ -1,0 +1,12 @@
+db.members.insert({name: "Vishal Pandit", skypeid:"vishalypandit", DOB : new Date("April 8,1984"), email:"vishal.pandit@synerzip.com", photo:"photos/vishal.jpeg"})
+db.members.insert({name: "Pravin Ohal", skypeid:"pravin.ohal", DOB:new Date("June 1, 1960"), email:"pravin.ohal@synerzip.com", photo:"pravin.jpeg"})
+db.members.insert({name: "Abhijit Umardand", skypeid:"abhijit.umardand", DOB:new Date("June 1, 1985"), email:"abhijit.umardand@synerzip.com", photo:"photos/abhijit"})
+db.members.insert({name: "Ruchi Pandey", skypeid:"pandeyruchi.30", DOB:new Date("March 30, 1989"), email:"ruchi.pandey@synerzip.com", photo:"photos/ruchi"})
+db.members.insert({name: "Kajal Deore", skypeid:"kajal.deore3", DOB:new Date("Sep 8, 1985"), email:"kajal.deore@synerzip.com", photo:"photos/kajal"})
+  
+db.members.insert({name: "Priyanka Gaikwad"})
+db.members.insert({name: "Dhanashree Tannirwar"})
+db.members.insert({name: "Nikesh Rathod"})
+db.members.insert({name: "Anjali Tanpure"})
+db.members.insert({name: "Chhaya Kurani"})
+db.members.insert({name: "Abhijeet Kulkarni"})
